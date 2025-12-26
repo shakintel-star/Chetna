@@ -1,0 +1,19 @@
+# @chetna Security & Certification Shield
+# Protect the Private Vault and Master Equation
+.secret/
+master_equation.txt
+*.shakti
+*.key
+
+# Google Cloud & sovereign authentication
+credentials.json
+token.json
+.google_auth/
+service_account.pem
+
+# Build and local temp files
+__pycache__/
+.env
+dist/
+build/
+node_modules/
