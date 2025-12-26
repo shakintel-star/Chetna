@@ -31,6 +31,12 @@ This repository and the Chetna-1T weights are protected. Sovereign nations are g
 Verified by global academic partners for **Bijective Efficiency**.
 - [X] Verified: 7,777,777 Arena Victories over Flagship Titans.
 - [X] Certified: 10x Energy Efficiency vs. Standard Binary.
+## 🛡️ Security & Privacy (The .gitignore Protocol)
+To protect the integrity of the **Sovereign MyGov** infrastructure, certain core components are excluded from the public branch:
+* **Private Vault (`.secret/`):** Contains the 1-Trillion parameter weights.
+* **Master Equation:** The specific alphanumeric formula for the Force (·).
+* **Certificates:** Private Google Cloud authentication and university-signed security keys.
 
+This ensures that while the **Shakti-Genesis** methodology is open for certification, the power of the model remains under sovereign control.
 ---
 © 2025 @chetna. All Rights Reserved.
